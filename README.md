@@ -1,1 +1,1 @@
-# ccna-office-lab-dhcp-ospf-vlans-hsrp-acl-wireless
+# ccna-office-lab-dhcp-ospf-vlans-hsrp-acl
