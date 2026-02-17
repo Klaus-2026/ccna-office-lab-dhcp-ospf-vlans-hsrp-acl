@@ -1,6 +1,6 @@
 # ccna-office-lab-dhcp-ospf-vlans-hsrp-acl
 ## Overview
-Office Network with 6-Vlan, OSPF, DHCP, HSRP, ACLs, Wifi
+Office Network with 6-Vlan, OSPF, DHCP, HSRP, ACLs, Wifi on Packet Tracer
 ## Topology
 ![Topology and Objectives.png](https://github.com/Klaus-2026/ccna-office-lab-dhcp-ospf-vlans-hsrp-acl/blob/main/Topology%20and%20Objectives.png)
 ## Features
